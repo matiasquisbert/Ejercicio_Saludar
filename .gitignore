@@ -1,0 +1,13 @@
+# Base de datos local
+db.sqlite3
+
+# Entorno virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IntelliJ / PyCharm
+.idea/
